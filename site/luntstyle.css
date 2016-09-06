@@ -1,0 +1,78 @@
+.bullets {
+	font-family: Tahoma, "Trebuchet MS", Verdana, Arial;
+	font-size: 15;
+	line-height: 1.5;
+	list-style-position: outside;
+	list-style-type: square;
+}
+p,td,th {
+	font-family: Tahoma, Trebuchet MS, Verdana, Arial;
+	font-size: small;
+	color: #0F7090;
+	
+	
+}
+
+body {
+	background-color: #0f7090;
+	margin-top: 16;
+	}
+a:link {
+	color: #CC3333;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #CC3333;
+}
+a:hover {
+	text-decoration: underline;
+	color: #660000;
+}
+a:active {
+	text-decoration: none;
+	color: #FF6633;
+}
+
+h1 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 28px;
+	color: #0F7090;
+	line-height: 1.5;
+	color: #E30000;
+}
+h2 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 18px;
+	color: #0F7090;
+	line-height: 1.5;
+	font-style:italic;
+}
+
+h3 {
+	font-family: Tahoma, Trebuchet MS, Verdana, Arial;
+	font-size: 13px;
+	color: #0F7090;
+	line-height: 1.5;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 20px;
+	color: #0F7090;
+	line-height: 1.5;
+	color: #E30000;
+	
+	}
+	
+h6 {
+	font-size: 9px;
+	color: #0F7090;
+}
+
+p {font-family: Tahoma, Trebuchet MS, Verdana, Arial;
+	font-size: 15;
+	color: #0F7090;
+	line-height: 1.5;

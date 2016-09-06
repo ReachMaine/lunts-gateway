@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^luntsgatewaylobster\.com
+RewriteRule ^(.*)$ http://www.luntsgatewaylobster.com/$1 [R=permanent,L]
+
